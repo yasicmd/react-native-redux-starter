@@ -14,4 +14,4 @@ class MyApp extends Component {
   }
 }
 
-AppRegistry.registerComponent('MyApp', () => MyApp);
+AppRegistry.registerComponent('RNStarter', () => MyApp);

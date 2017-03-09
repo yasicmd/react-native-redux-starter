@@ -1,4 +1,4 @@
-package com.myapp;
+package com.rnstarter;
 
 import android.app.Application;
 import android.util.Log;
