@@ -1,5 +1,7 @@
 #React Native Redux Starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/francocorreasosa/react-native-redux-starter.svg)](https://greenkeeper.io/)
+
 This is a simple project that helps starting out a new React Native project.
 
 It comes with:
